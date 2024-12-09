@@ -1,0 +1,23 @@
+[
+    {
+        "Article Pair": [
+            "Dockworkers hit picket lines in historic US port strike that could impact prices",
+            "Las Vegas will blow a kiss goodbye \u2014 literally \u2014 to the Tropicana with a flashy casino implosion"
+        ],
+        "Jaccard Similarity": 0.09391534391534391
+    },
+    {
+        "Article Pair": [
+            "Dockworkers hit picket lines in historic US port strike that could impact prices",
+            "MLB will air local games for Cleveland, Milwaukee and Minnesota beginning next season"
+        ],
+        "Jaccard Similarity": 0.0
+    },
+    {
+        "Article Pair": [
+            "Dockworkers hit picket lines in historic US port strike that could impact prices",
+            "MLB will air local games for Guardians, Brewers and Twins next season"
+        ],
+        "Jaccard Similarity": 0.12098765432098765
+    }
+]
