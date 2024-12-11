@@ -8,5 +8,7 @@ The script takes the output of the command in Programming2, and shows the data i
 
 ### Command
 
+run this command within the news-articles directory.
+
 ```bash
 python3 heatmap.py
